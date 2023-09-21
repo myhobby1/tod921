@@ -1,0 +1,18 @@
+오후 4:18 2023-09-21
+
+float
+
+<html>
+<head>
+<meta charset="utf-8">
+<style>
+    img{
+    border: 1px solid red;
+    float : right ;	
+    }
+</style>	
+</head>
+<body>
+  <img src= ""https://URL>	
+</body>
+</html>
